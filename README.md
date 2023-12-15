@@ -4,7 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fprompti.ai%2Fwp-content%2Fuploads%2F2023%2F07%2Fpcboi2.png&tbnid=F0XyQN3AZLVdcM&vet=12ahUKEwjQ6bbL-ZGDAxW3-zgGHZESAaUQMygFegQIARB_..i&imgrefurl=https%3A%2F%2Fprompti.ai%2Fcool-coder-logo%2F&docid=VZ3xhvW3_J6sMM&w=997&h=1002&q=coder&ved=2ahUKEwjQ6bbL-ZGDAxW3-zgGHZESAaUQMygFegQIARB_">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkhatri13&label=Profile%20views&color=0e75b6&style=flat" alt="mohitkhatri13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
