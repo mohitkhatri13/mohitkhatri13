@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mohitkhatri13/bannerimage/blob/main/github-header-image.png?raw=true)]
+![MasterHead](https://github.com/mohitkhatri13/bannerimage/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Mohit Khatri</h1>
 <h3 align="center">A passionate Problem Solver , frontend developer</h3>
 
