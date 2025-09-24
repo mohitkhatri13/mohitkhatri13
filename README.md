@@ -15,12 +15,12 @@
 
 <br/>
 
-### Visitor's Count:
 
-<a align="center" href="https://profile-counter.glitch.me/{mohitkhatri13}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{mohitkhatri13}/count.svg)  
-</a>
+
+<!-- <p align="center">
+  <img src="https://profile-counter.glitch.me/mohitkhatri13/count.svg" />
+</p> -->
+
 
 <br/>
 
